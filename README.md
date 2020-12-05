@@ -132,7 +132,6 @@ Many [Jupyter based](https://jupyter.org/) notebooks involve data access using f
 | ▲ [Top](#awesome-earthobservation-code) |
 | --- |
 | ▲ [Jupyter based training resources](#jupyter-based-training-resources) |
-| --- |
 
 **Utilities**
  - [BBox finder](http://bboxfinder.com/) - Select an area and get BBox information in vairous projections and formats.
