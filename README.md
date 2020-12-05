@@ -52,6 +52,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ### Jupyter based training resources
 | ▲ [Top](#awesome-earthobservation-code) |
 | --- |
+
 Many [Jupyter based](https://jupyter.org/) notebooks involve data access using free or paid API services. For more information, jump to the [EO data services](#data-and-utilities) section of this guide.
 - [Kaggle](https://www.kaggle.com/) - Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere/-/blob/master/00_index_ltpy.ipynb)  - LTPy, a learning Tool for Python on Atmospheric Composition Data.
