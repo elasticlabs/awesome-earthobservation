@@ -141,6 +141,7 @@ Many [Jupyter based](https://jupyter.org/) ![Python](resources/icon/python.png) 
 | --- |
 - [GEOS](https://trac.osgeo.org/geos/) ![C++](resources/icon/cplusplus.png) -  GEOS (Geometry Engine - Open Source) is a C++ port of the ​JTS Topology Suite (JTS). It aims to contain the complete functionality of JTS in C++.
 - [GeoPandas]( https://geopandas.org/) ![C++](resources/icon/cplusplus.png) - GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
+- [MDAL]https://www.mdal.xyz/) ![C++](resources/icon/cplusplus.png) - Mesh Data Abstraction Library (MDAL)
 
 
 ## Data and Utilities
@@ -178,6 +179,7 @@ Many [Jupyter based](https://jupyter.org/) ![Python](resources/icon/python.png) 
 | ▲ [Top](#awesome-earthobservation-code) |
 | --- |
 - [EUMETSAT](https://www.eumetsat.int/about-us/who-we-are) - European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)
+- [ESA](https://www.esa.int/) - European Space Agency main site
 
 ## Awesome Awesomeness
 | ▲ [Top](#awesome-earthobservation-code) |
