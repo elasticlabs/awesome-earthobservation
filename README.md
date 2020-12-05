@@ -12,7 +12,7 @@
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome GIS](https://github.com/elasticlabs/awesome-gis)
 
 <p>
-  <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" height="300px">
+  <img src="https://raw.githubusercontent.com/elasticlabs/awesome-earthobservation-code/main/header.png" alt="Awesome GIS" height="300px">
 </p>
 
 **Table Of Contents:**
@@ -130,6 +130,7 @@ Many [Jupyter based](https://jupyter.org/) notebooks involve data access using f
 
 ## Data and Utilities
 | ▲ [Top](#awesome-earthobservation-code) |
+| --- |
 | ▲ [Jupyter based training resources](#jupyter-based-training-resources) |
 | --- |
 
