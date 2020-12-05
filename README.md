@@ -53,13 +53,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 | ▲ [Top](#awesome-earthobservation-code) |
 | --- |
 
-Many [Jupyter based](https://jupyter.org/) notebooks involve data access using free or paid API services. For more information, jump to the [EO data services](#data-and-utilities) section of this guide.
-- [Kaggle](https://www.kaggle.com/) - Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.
-- [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere/-/blob/master/00_index_ltpy.ipynb)  - LTPy, a learning Tool for Python on Atmospheric Composition Data.
-- [ECMWF examples](https://github.com/ecmwf/notebook-examples) - The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. A [Binder space](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master?filepath=%2Fhome%2Fjovyan) is also available for immediate playground access.
+Many [Jupyter based](https://jupyter.org/) ![Python](resources/icon/python.png) notebooks involve data access using free or paid API services. For more information, jump to the [EO data services](#data-and-utilities) section of this guide.
+- [Kaggle](https://www.kaggle.com/) ![Python](resources/icon/python.png) - Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.
+- [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere/-/blob/master/00_index_ltpy.ipynb) ![Python](resources/icon/python.png) - LTPy, a learning Tool for Python on Atmospheric Composition Data.
+- [ECMWF examples](https://github.com/ecmwf/notebook-examples) ![Python](resources/icon/python.png) - The examples in this space should give you a good starting point how you can work with ECMWF services and data through Python using Jupyter notebooks. A [Binder space](https://mybinder.org/v2/gh/ecmwf/notebook-examples/master?filepath=%2Fhome%2Fjovyan) is also available for immediate playground access.
   * [Visualisation meteorological data](https://github.com/ecmwf/notebook-examples/visualisation) using ECMWF's [Magics](https://software.ecmwf.int/magics) plotting package for meteorological data.
   * [Retrieving and processing meteorological data](https://github.com/ecmwf/notebook-examples/processing) using [Metview](https://software.ecmwf.int/metview) and related Python packages.
-- [Kaggle MeteoNet North-West France](https://www.kaggle.com/katerpillar/meteonet) - MeteoNet is a meteorological dataset developed and made available by METEO FRANCE, the French national meteorological service. Let’s start playing with the dataset! You can find playful introductory [Notebooks](https://www.kaggle.com/katerpillar/meteonet/notebooks) and in the [Tasks](https://www.kaggle.com/katerpillar/meteonet/tasks) tab some challenges proposals! 
+- [Kaggle MeteoNet North-West France](https://www.kaggle.com/katerpillar/meteonet) ![Python](resources/icon/python.png) - MeteoNet is a meteorological dataset developed and made available by METEO FRANCE, the French national meteorological service. Let’s start playing with the dataset! You can find playful introductory [Notebooks](https://www.kaggle.com/katerpillar/meteonet/notebooks) and in the [Tasks](https://www.kaggle.com/katerpillar/meteonet/tasks) tab some challenges proposals! 
 
 ### Web Map Servers
 | ▲ [Top](#awesome-earthobservation-code) |
